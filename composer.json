@@ -29,7 +29,7 @@
     "cryptothree/bitcoin": "^1.1"
   },
   "require-dev": {
-    "phpunit/phpunit": "^5.7",
+    "phpunit/phpunit": "^9.3",
     "squizlabs/php_codesniffer": "v2.0.0"
   }
 }
