@@ -1,6 +1,6 @@
 {
-  "name": "btccom/bitwasp-bitcoin-bch-addon",
-  "homepage": "https://github.com/btccom/bitwasp-bitcoin-bch-addon",
+  "name": "cryptothree/bitcoin-bch-addon",
+  "homepage": "https://github.com/cryptothree/bitcoin-bch-addon",
   "type": "library",
   "description": "Bridge to bitwasp/bitcoin for bch.",
   "keywords": ["bcash", "bch", "bitcoin cash", "cashaddr"],
